@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/atharva-64-bit/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/atharva-64-bit/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/atharva-64-bit/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Month.pdf)_ 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
